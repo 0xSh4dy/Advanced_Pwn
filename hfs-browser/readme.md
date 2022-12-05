@@ -1,4 +1,4 @@
-Please only test your exploit against the remote service once it works locally :prayer:
+hfs_browser, from MidnightSun CTF 
 
 How to test locally:
 LD_PRELOAD="./libc-2.31.so ./libcurl-gnutls.so.4.6.0" ./hfs_browser http://127.0.0.1:8081/pwn.js
